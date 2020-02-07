@@ -1,0 +1,3 @@
+[submodule "deps/SDL-Vita"]
+	path = deps/SDL-Vita
+	url = https://github.com/rsn8887/SDL-Vita.git
